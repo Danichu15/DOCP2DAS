@@ -7,3 +7,4 @@
 5- Necesito que la página web del sistema este disponible las 24h del día durante todo el año. (Aceptado)
 6- Necesito que se pueda acceder siempre a las cámaras de video-vigilancia. (Aceptado)
 7- Necesito que las comunicaciones con otros paises sean fiables, no se puede perder información. (Rechazado)
+8- Necesito que la página WEB se pueda modificar fácilmente < 1 semana. (Rechazado)
