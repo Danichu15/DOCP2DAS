@@ -2,8 +2,8 @@
 1- Necesito que el sistema de llamadas de emergencia esté disponible las 24h del día durante todo el año.
 
 2- Necesito que las emergencias inesperadas se comuniquen rápido.
-3- Necesito que el sistema de comunicación con policía y militares sea seguro.
+3- Necesito que el sistema de comunicación entre policía y militares sea seguro.
 4- Necesito que el sistema de llamadas no pierda llamadas, todas las llamadas entrantes deberán ser gestionadas.
 5- Necesito que la página web del sistema este disponible las 24h del día durante todo el año.
-6- Necesito que las cámaras de video-vigilancia estén siempre atendidas.
+6- Necesito que se pueda acceder siempre a las cámaras de video-vigilancia.
 7- Necesito que las comunicaciones con otros paises sean fiables, no se puede perder información.
