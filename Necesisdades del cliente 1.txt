@@ -8,3 +8,9 @@
 6- Necesito que se pueda acceder siempre a las cámaras de video-vigilancia. (Aceptado)
 7- Necesito que las comunicaciones con otros paises sean fiables, no se puede perder información. (Rechazado)
 8- Necesito que la página WEB se pueda modificar fácilmente < 1 semana. (Rechazado)
+9- Necesito que el sistema de video-vigilancia sea seguro, que las imágenes no las puedan ver cualquiera.
+10- Necesito que haya un minimo de 25 sensores de destectores de incendios.
+11- Necesito que la información de los sensores de incendios viaje en un canal seguro.
+12- Necesito que el sistema que gestione los sensores de incendios no tenga problemas de conexion con los sensores.
+13- Necesito que el sistema que gestione los sensores de incendios funcione siempre.
+14- Necesito que el sistema de video vigilancia funcione siempre.
