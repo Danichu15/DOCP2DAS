@@ -12,5 +12,5 @@
 10- Necesito que haya un minimo de 25 sensores de destectores de incendios. (Rechazado)
 11- Necesito que la información de los sensores de incendios viaje en un canal seguro. (Aceptado)
 12- Necesito que el sistema que gestione los sensores de incendios no tenga problemas de conexion con los sensores. (Rechazado)
-13- Necesito que el sistema que gestione los sensores de incendios funcione siempre. (Aceptado)
-14- Necesito que el sistema de video vigilancia funcione siempre. (Aceptado).
+13- Necesito que el sistema que gestione los sensores de incendios funcione siempre. 
+14- Necesito que el sistema de video vigilancia funcione siempre. 
